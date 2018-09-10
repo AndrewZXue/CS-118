@@ -1,0 +1,14 @@
+CS 118
+Project #1
+Web Server with BSD Socket 
+
+Zhouyang Xue
+&
+Yang Li
+
+
+This tarball file contains 4 files:
+- webserver.c : the source code of this project.
+- Makefile: the makefile to compile the source code.
+- report.pdf: A report of this file in .pdf format.
+- README: this file.
